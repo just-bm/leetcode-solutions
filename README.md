@@ -9,3 +9,6 @@ DSA:
 295. Find Median from Data Stream(java)
 <br/>
 263. Ugly Number(java)
+<br/>
+1790. Check if One String Swap Can Make Strings Equal(java, py)
+<br/>
