@@ -7,3 +7,5 @@ DSA:
 1800. Maximum Ascending Subarray Sum(java)
 <br/>
 295. Find Median from Data Stream(java)
+<br/>
+263. Ugly Number(java)
