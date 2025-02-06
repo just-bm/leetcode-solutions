@@ -12,3 +12,5 @@ DSA:
 <br/>
 1790. Check if One String Swap Can Make Strings Equal(java, py)
 <br/>
+42. Trapping Rain Water (java, py)
+<br/>
