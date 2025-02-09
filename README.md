@@ -14,3 +14,5 @@ DSA:
 <br/>
 42. Trapping Rain Water (java, py)
 <br/>
+2364. Count Number of Bad Pairs (py)
+<br/>
