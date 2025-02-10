@@ -16,3 +16,5 @@ DSA:
 <br/>
 2364. Count Number of Bad Pairs (py)
 <br/>
+3174. Clear Digits(py, java)
+<br/>
