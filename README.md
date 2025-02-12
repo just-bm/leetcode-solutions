@@ -24,3 +24,6 @@ DSA:
 <br/>
 345. Reverse Vowels of a String
 <br/>
+392. Is Subsequence
+<br/>
+
