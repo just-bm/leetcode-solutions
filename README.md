@@ -22,3 +22,5 @@ DSA:
 <br/>
 605. Can Place Flowers(py, java)
 <br/>
+345. Reverse Vowels of a String
+<br/>
