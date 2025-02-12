@@ -20,3 +20,5 @@ DSA:
 <br/>
 151. Reverse Words in a String(py)
 <br/>
+605. Can Place Flowers(py, java)
+<br/>
