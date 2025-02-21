@@ -26,4 +26,10 @@ DSA:
 <br/>
 392. Is Subsequence
 <br/>
+1261. Find Elements in a Contaminated Binary Tree
+<br/>
+1980. Find Unique Binary String
+<br/>
+<br/>
+<br/>
 
