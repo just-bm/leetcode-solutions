@@ -22,13 +22,13 @@ DSA:
 <br/>
 605. Can Place Flowers(py, java)
 <br/>
-345. Reverse Vowels of a String
+345. Reverse Vowels of a String(py)
 <br/>
-392. Is Subsequence
+392. Is Subsequence(py)
 <br/>
-1261. Find Elements in a Contaminated Binary Tree
+1261. Find Elements in a Contaminated Binary Tree(py)
 <br/>
-1980. Find Unique Binary String
+1980. Find Unique Binary String(py)
 <br/>
 <br/>
 <br/>
