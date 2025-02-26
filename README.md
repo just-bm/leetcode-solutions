@@ -30,8 +30,9 @@ DSA:
 <br/>
 1980. Find Unique Binary String(py)
 <br/>
-1524. Number of Sub-arrays With Odd Sum
+1524. Number of Sub-arrays With Odd Sum(py)
 <br/>
+1528. Shuffle String(py)
 <br/>
 <br/>
 <br/>
