@@ -34,6 +34,7 @@ DSA:
 <br/>
 1528. Shuffle String(py)
 <br/>
+2460. Apply Operations to an Array (java, py)
 <br/>
 <br/>
 <br/>
