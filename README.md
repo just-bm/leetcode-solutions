@@ -36,8 +36,9 @@ DSA:
 <br/>
 2460. Apply Operations to an Array (java, py)
 <br/>
-2570. Merge Two 2D Arrays by Summing Values
+2570. Merge Two 2D Arrays by Summing Values(py)
 <br/>
+2161. Partition Array According to Given Pivot(py)
 <br/>
 <br/>
 <br/>
