@@ -40,6 +40,7 @@ DSA:
 <br/>
 2161. Partition Array According to Given Pivot(py)
 <br/>
+24. Swap Nodes in Pairs(py)
 <br/>
 <br/>
 <br/>
