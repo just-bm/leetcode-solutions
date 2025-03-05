@@ -42,6 +42,13 @@ DSA:
 <br/>
 24. Swap Nodes in Pairs(py)
 <br/>
+2579. Count Total Number of Colored Cells(py)
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
