@@ -44,6 +44,7 @@ DSA:
 <br/>
 2579. Count Total Number of Colored Cells(py)
 <br/>
+2379. Minimum Recolors to Get K Consecutive Black Blocks(py)
 <br/>
 <br/>
 <br/>
