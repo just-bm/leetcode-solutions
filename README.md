@@ -46,6 +46,7 @@ DSA:
 <br/>
 2379. Minimum Recolors to Get K Consecutive Black Blocks(py)
 <br/>
+2529. Maximum Count of Positive Integer and Negative Integer(py, java)
 <br/>
 <br/>
 <br/>
