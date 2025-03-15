@@ -48,6 +48,7 @@ DSA:
 <br/>
 2529. Maximum Count of Positive Integer and Negative Integer(py, java)
 <br/>
+136. Single Number (py, java)
 <br/>
 <br/>
 <br/>
