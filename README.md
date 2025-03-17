@@ -54,6 +54,7 @@ DSA:
 <br/>
 3487. Maximum Unique Subarray Sum After Deletion(py, java)
 <br/>
+2206. Divide Array Into Equal Pairs(py)
 <br/>
 <br/>
 <br/>
