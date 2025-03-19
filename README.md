@@ -56,6 +56,7 @@ DSA:
 <br/>
 2206. Divide Array Into Equal Pairs(py, java)
 <br/>
+3191. Minimum Operations to Make Binary Array Elements Equal to One I(py)
 <br/>
 <br/>
 <br/>
