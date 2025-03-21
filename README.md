@@ -60,5 +60,10 @@ DSA:
 <br/>
 2839. Check if Strings Can be Made Equal With Operations I(py)
 <br/>
+2115. Find All Possible Recipes from Given Supplies(py)
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 
