@@ -64,6 +64,7 @@ DSA:
 <br/>
 3084. Count Substrings Starting and Ending with Given Character(py)
 <br/>
+1207. Unique Number of Occurrences(py, java)
 <br/>
 <br/>
 <br/>
