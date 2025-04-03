@@ -66,6 +66,7 @@ DSA:
 <br/>
 1207. Unique Number of Occurrences(py, java)
 <br/>
+62. Unique Paths(py)
 <br/>
 <br/>
 
