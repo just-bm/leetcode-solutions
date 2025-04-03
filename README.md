@@ -70,6 +70,7 @@ DSA:
 <br/>
 1598. Crawler Log Folder(py)
 <br/>
+22. Generate Parentheses(py)
 <br/>
 <br/>
 <br/>
