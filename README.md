@@ -72,6 +72,7 @@ DSA:
 <br/>
 22. Generate Parentheses(py)
 <br/>
+112. Path Sum(py)
 <br/>
 <br/>
 <br/>
