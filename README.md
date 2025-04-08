@@ -74,6 +74,7 @@ DSA:
 <br/>
 112. Path Sum(py)
 <br/>
+3396. Minimum Number of Operations to Make Elements in Array Distinct(py)
 <br/>
 <br/>
 <br/>
