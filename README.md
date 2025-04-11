@@ -76,6 +76,7 @@ DSA:
 <br/>
 3396. Minimum Number of Operations to Make Elements in Array Distinct(py)
 <br/>
+2843. Count Symmetric Integers(py)
 <br/>
 <br/>
 <br/>
