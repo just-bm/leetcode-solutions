@@ -78,6 +78,7 @@ DSA:
 <br/>
 2843. Count Symmetric Integers(py)
 <br/>
+3392. Count Subarrays of Length Three With a Condition(py)
 <br/>
 <br/>
 
