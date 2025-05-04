@@ -80,5 +80,10 @@ DSA:
 <br/>
 3392. Count Subarrays of Length Three With a Condition(py)
 <br/>
+1128. Number of Equivalent Domino Pairs(py)
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 
