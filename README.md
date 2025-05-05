@@ -82,6 +82,7 @@ DSA:
 <br/>
 1128. Number of Equivalent Domino Pairs(py)
 <br/>
+790. Domino and Tromino Tiling(py)
 <br/>
 <br/>
 <br/>
