@@ -84,6 +84,7 @@ DSA:
 <br/>
 790. Domino and Tromino Tiling(py)
 <br/>
+1920. Build Array from Permutation(py)
 <br/>
 <br/>
 <br/>
