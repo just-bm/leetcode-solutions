@@ -86,6 +86,7 @@ DSA:
 <br/>
 1920. Build Array from Permutation(py)
 <br/>
+1550. Three Consecutive Odds(py)
 <br/>
 <br/>
 
