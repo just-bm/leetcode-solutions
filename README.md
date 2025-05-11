@@ -88,5 +88,6 @@ DSA:
 <br/>
 1550. Three Consecutive Odds(py)
 <br/>
+34. Find First and Last Position of Element in Sorted Array(py)
 <br/>
 
