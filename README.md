@@ -90,4 +90,20 @@ DSA:
 <br/>
 34. Find First and Last Position of Element in Sorted Array(py)
 <br/>
-
+3024. Type of Triangle(py)
+<br/>
+75. Sort Colors(py)
+<br/>
+2942. Find Words Containing Character(py)
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
