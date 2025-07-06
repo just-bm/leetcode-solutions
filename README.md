@@ -100,6 +100,7 @@ DSA:
 <br/>
 645. Set Mismatch(py)
 <br/>
+1394. Find Lucky Integer in an Array(py, java)
 <br/>
 <br/>
 <br/>
