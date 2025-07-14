@@ -103,6 +103,7 @@ DSA:
 1394. Find Lucky Integer in an Array(py, java)
 <br/>2410. Maximum Matching of Players With Trainers(java,py)
 <br/>
+1290. Convert Binary Number in a Linked List to Integer(py, java)
 <br/>
 <br/>
 <br/>
